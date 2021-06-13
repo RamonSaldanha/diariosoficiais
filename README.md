@@ -1,4 +1,5 @@
 ## TO DO
-
-- [X] TRT21
-- [ ] TJRN
+* [ ] Tribunal de Justiça (TJ)
+  * [ ] TJRN
+* [ ] Tribunal Regional do Trabalho (TRT)
+  * [X] ~~*TRT-21*~~ [2021-06-12]
